@@ -15,7 +15,8 @@ body {
 
 .container-qr {
   max-width: 375px;
-  margin: 0 auto;  
+  margin: 10% auto; 
+
 }
 
 .card{
